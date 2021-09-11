@@ -17,9 +17,9 @@ I am Bodhi, a fullstack developer/digital nomad from Kerala, India.
 
 As a kid, I learned to build website back in school, tinkering with school website. The instant gratification that I found in building on the web made me very curious. I took up many part time projects developing web apps as a hobby. When I got into college, I tried to replicate the instant gratification I found in building products in my Electronics and Communications Engineering. Passing time I built a few contraptions but figured out that my passion was product building and development than electronics.
 
-[Building a student startup while in college changed my life](https://blog.sv.co/from-a-routine-college-life-to-life-of-a-student-entrepreneur-51a2fed29844). It gave me the confidence and drive to build and ship open products. With [multiple continuous failures](https://bodhish.in/), I learned to build, polish and deploy better ideas.
+[Building a student startup while in college changed my life](https://blog.sv.co/from-a-routine-college-life-to-life-of-a-student-entrepreneur-51a2fed29844). It gave me the confidence and drive to build and ship open products. With [multiple failures](https://bodhish.in/), I learned to build, polish and deploy better ideas.
 
-These days I work with multiple open source projects and open learning initiatives. I maintain the [CoronaSafe Project](coronasafe.network) which caters to improve availability of healthcare resources across [multiple states in India](https://github.com/coronasafe), I work fulltime with Pupilfirst building and [open learning management system](https://github.com/pupilfirst/pupilfirst/) and work with programs that teach coding to students across the country.
+These days I work with multiple open source projects and open learning initiatives. I maintain the [CoronaSafe Project](coronasafe.network) which caters to improve the availability of healthcare resources across [multiple states in India](https://github.com/coronasafe), I work fulltime with Pupilfirst building and [open learning management system](https://github.com/pupilfirst/pupilfirst/) and work with programs that teach coding to students across the country.
 
 ## 🌱 Product Experiments
 
@@ -38,4 +38,6 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 
 ## 📫 Support
 
-If you like any of my projects, [sponsor me](https://github.com/sponsors/bodhish) 😃
+If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
+
+Thank you for your support! 🙌
