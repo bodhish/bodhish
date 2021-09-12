@@ -2,7 +2,7 @@
   <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
 </p>
 
-![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631271186/Github%20Readme/readme-test_scrci1.png)
+![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631438051/Github%20Readme/Bodhish-Github-cover-01_enerpv.png)
 
 <p align="center">
   <a href="https://twitter.com/bodhishthomas"><img src="https://img.shields.io/badge/-bodhishthomas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
