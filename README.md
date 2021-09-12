@@ -1,4 +1,4 @@
-![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631443987/Github%20Readme/Bodhish-Github-cover-2-06-06_gvw8lq.png)
+![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631444920/Github%20Readme/Bodhish-Github-cover-06_e6bkyu.png)
 
 <p align="center">
   <a href="https://twitter.com/bodhishthomas"><img src="https://img.shields.io/badge/-bodhishthomas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
