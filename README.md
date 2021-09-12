@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
-</p>
-
 ![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631441951/Github%20Readme/Bodhish-Github-cover-2-06_j0hgnd.png)
 
 <p align="center">
@@ -41,3 +37,7 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
 
 Thank you for your support! 🙌
+<p align="right">
+  <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
+</p>
+
