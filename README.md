@@ -15,7 +15,7 @@ As a kid, I learned to build website back in school, tinkering with school websi
 
 [Building a student startup while in college changed my life](https://blog.sv.co/from-a-routine-college-life-to-life-of-a-student-entrepreneur-51a2fed29844). It gave me the confidence and drive to build and ship open products. With [multiple failures](https://bodhish.in/), I learned to build, polish and deploy better ideas.
 
-These days I work with multiple open source projects and open learning initiatives. I maintain the [CoronaSafe Project](coronasafe.network) which caters to improve the availability of healthcare resources across [multiple states in India](https://github.com/coronasafe), I work fulltime with Pupilfirst building and [open learning management system](https://github.com/pupilfirst/pupilfirst/) and work with programs that teach coding to students across the country.
+These days I work with multiple open source projects and open learning initiatives. I maintain the [CoronaSafe Project](coronasafe.network) which caters to improve the availability of healthcare resources across [multiple states in India](https://github.com/coronasafe), I work fulltime with Pupilfirst building an [open learning management system](https://github.com/pupilfirst/pupilfirst/) and work with programs that teach coding to students across the country.
 
 ## 🌱 Product Experiments
 
