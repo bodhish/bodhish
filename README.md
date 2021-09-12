@@ -37,7 +37,7 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
 
 Thank you for your support! 🙌
-<p align="right">
+<p align="center">
   <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
 </p>
 
