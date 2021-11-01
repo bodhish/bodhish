@@ -27,6 +27,14 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 
 </a>
 
+# Talks And Presentations
+
+| Topic                                                                     | Description |
+| ------------------------------------------------------------------------- | ----------- |
+| The Inside Story of Coronasafe - Hidden in every crisis is an opportunity | [Deck]()    |
+| Digital Learning with Learning Management System                          | [Deck]()    |
+| Introduction to GitHub                                                    | [Deck]()    |
+
 ## :octocat: Github Stats
 
 ![](https://raw.githubusercontent.com/bodhish/github-stats-transparent/output/generated/overview.svg)
@@ -37,7 +45,7 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
 
 Thank you for your support! 🙌
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
 </p>
-
