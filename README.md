@@ -27,13 +27,13 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 
 </a>
 
-# Talks And Presentations
+## 👀 Talks And Presentations
 
-| Topic                                                                     | Description |
-| ------------------------------------------------------------------------- | ----------- |
-| The Inside Story of Coronasafe - Hidden in every crisis is an opportunity | [Deck]()    |
-| Digital Learning with Learning Management System                          | [Deck]()    |
-| Introduction to GitHub                                                    | [Deck]()    |
+| Topic                                                                     | Description                                                                                                     |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| The Inside Story of Coronasafe - Hidden in every crisis is an opportunity | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/story-of-coronasafe-network.pdf)                      |
+| Digital Learning with Learning Management System                          | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/digital-learning-with-learning-management-system.pdf) |
+| Introduction to GitHub                                                    | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/introduction-to-gitHub.pdf)                           |
 
 ## :octocat: Github Stats
 
