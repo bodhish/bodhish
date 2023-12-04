@@ -31,6 +31,8 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 
 | Topic                                                                     | Description                                                                                                     |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Journey of Open Healthcare Network - A Digital Public Good in Action | [Deck](https://www.canva.com/design/DAF11Q9TejI/klNQOIQf8a0H9JxXTiISng/edit?utm_content=DAF11Q9TejI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                      |
+| Gen AI @ Open Healthcare Network | [Deck](https://www.canva.com/design/DAF0RUXYJac/PjQJcpsXFyeQQF027EqQnQ/edit?utm_content=DAF0RUXYJac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                      |
 | The Inside Story of Coronasafe - Hidden in every crisis is an opportunity | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/story-of-coronasafe-network.pdf)                      |
 | Digital Learning with Learning Management System                          | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/digital-learning-with-learning-management-system.pdf) |
 | Introduction to GitHub                                                    | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/introduction-to-gitHub.pdf)                           |
@@ -45,7 +47,3 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
 
 Thank you for your support! 🙌
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/bodhish" alt="profile views">
-</p>
