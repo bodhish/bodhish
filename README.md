@@ -23,7 +23,7 @@ You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
 
 <a href="https://www.bodhish.in" target="_blank">
 
-![Products Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631302729/Github-Sponsor/products_vmb0oh.png)
+![Products Bodhi](https://res.cloudinary.com/bodhi/image/upload/f_auto,q_auto/v1/Github%20Readme/bh2edcvw3fttjziepyes)
 
 </a>
 
