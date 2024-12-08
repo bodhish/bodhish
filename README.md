@@ -1,49 +1,81 @@
-![Bodhi](https://res.cloudinary.com/bodhi/image/upload/v1631444920/Github%20Readme/Bodhish-Github-cover-06_e6bkyu.png)
+![Bodhish Thomas](https://res.cloudinary.com/bodhi/image/upload/v1631444920/Github%20Readme/Bodhish-Github-cover-06_e6bkyu.png)
+
+<h1 align="center">Hey there! I'm Bodhish 👋</h1>
 
 <p align="center">
-  <a href="https://twitter.com/bodhishthomas"><img src="https://img.shields.io/badge/-bodhishthomas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bodhish/"><img src="https://img.shields.io/badge/-bodhish-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://dev.to/bodhish"><img src="https://img.shields.io/badge/-bodhish-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to" alt="DevTo Badge"></a>
-  <a href="https://www.bodhish.in"><img src="https://img.shields.io/badge/-bodhish.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://twitter.com/bodhishthomas"><img src="https://img.shields.io/badge/-@bodhishthomas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/bodhish/"><img src="https://img.shields.io/badge/-bodhish-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://dev.to/bodhish"><img src="https://img.shields.io/badge/-bodhish-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to" alt="Dev.to"/></a>
+  <a href="https://www.bodhish.in"><img src="https://img.shields.io/badge/-bodhish.in-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
 </p>
 
-# 👋Hey,
+---
 
-I am Bodhi, a fullstack developer/digital nomad from Kerala, India.
+### ✨ Building Tech for Social Impact
 
-As a kid, I learned to build website back in school, tinkering with school website. The instant gratification that I found in building on the web made me very curious. I took up many part time projects developing web apps as a hobby. When I got into college, I tried to replicate the instant gratification I found in building products in my Electronics and Communications Engineering. Passing time I built a few contraptions but figured out that my passion was product building and development than electronics.
+Hey! I'm a fullstack developer who loves building open-source solutions that make a difference. Leading the Digital Public Goods team at [Pupilfirst](https://github.com/pupilfirst) and running the [Open Healthcare Network](https://ohc.network) (a Digital Public Good!), I get to work on some really impactful projects.
 
-[Building a student startup while in college changed my life](https://blog.sv.co/from-a-routine-college-life-to-life-of-a-student-entrepreneur-51a2fed29844). It gave me the confidence and drive to build and ship open products. With [multiple failures](https://bodhish.in/), I learned to build, polish and deploy better ideas.
+Back in school, I started tinkering with websites – and that curiosity never stopped. Now, I mix AI with healthcare tech, build tools for better education, and work with amazing developers worldwide. Pretty cool that GitHub made me a Star in 2024! 🌟
 
-These days I work with multiple open source projects and open learning initiatives. I maintain the [CoronaSafe Project](coronasafe.network) which caters to improve the availability of healthcare resources across [multiple states in India](https://github.com/coronasafe), I work fulltime with Pupilfirst building an [open learning management system](https://github.com/pupilfirst/pupilfirst/) and work with programs that teach coding to students across the country.
+---
 
-## 🌱 Product Experiments
+### 🌱 What I'm Passionate About
 
-You can check out my product experiments @[bodhish.in](https://www.bodhish.in)
+- **Making Healthcare & Education Better:** Building open tech that helps save lives and students learn better
+- **AI That Actually Helps:** Creating tools that make developers more productive and healthcare more accessible
+- **Growing Communities:** Working with awesome developers globally and helping newcomers make their first open-source contributions
 
-<a href="https://www.bodhish.in" target="_blank">
+---
 
-![Products Bodhi](https://res.cloudinary.com/bodhi/image/upload/f_auto,q_auto/v1/Github%20Readme/bh2edcvw3fttjziepyes)
+### 🎖 Nice Things That Happened Along The Way
 
-</a>
+- Got to be a GitHub Star (2024)
+- One of the first in India to get GitHub's Open Source Grant (2021)
+- Built OHC from a pandemic response into a system that now helps 186.8M+ people across 581 hospitals (2020)
+- Awarded Emerging Intellect of the Year (2019)
+- Created Afterflood as response to the kerala floods (2018)
+- Got to show our work at Facebook HQ in California (2017)
 
-## 👀 Talks And Presentations
+---
 
-| Topic                                                                     | Description                                                                                                     |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Journey of Open Healthcare Network - A Digital Public Good in Action | [Deck](https://www.canva.com/design/DAF11Q9TejI/klNQOIQf8a0H9JxXTiISng/edit?utm_content=DAF11Q9TejI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                      |
-| Gen AI @ Open Healthcare Network | [Deck](https://www.canva.com/design/DAF0RUXYJac/PjQJcpsXFyeQQF027EqQnQ/edit?utm_content=DAF0RUXYJac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                      |
-| The Inside Story of Coronasafe - Hidden in every crisis is an opportunity | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/story-of-coronasafe-network.pdf)                      |
-| Digital Learning with Learning Management System                          | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/digital-learning-with-learning-management-system.pdf) |
-| Introduction to GitHub                                                    | [Deck](https://github.com/bodhish/bodhish/blob/main/decks/introduction-to-gitHub.pdf)                           |
+### 🏆 Cool Side Projects We've Built Together
+- **[Care](https://github.com/ohcnetwork/care_fe)**: AI-powered hospital management system
+- **[Medispeak](https://github.com/medispeak/)**: Converts doctor-patient conversations into structured EHR data  
+- **[Ayushma AI](https://github.com/ohcnetwork/ayushma)**: Helps nurses learn ICU protocols quickly in their own language  
+- **[Afterflood](https://github.com/AfterFlood)**: Post-flood resource guide, built in hours to help Kerala flood victims  
+- **[Knowledgebase.tech](https://github.com/knowledgebasetech)**: No-code documentation site builder  
+- **[mytemplate.xyz](https://github.com/bodhish/mytemplate.xyz)**: No-code dev portfolio builder (Product Hunt “Product of the Day”)  
+- **[Telemed](https://github.com/ohcnetwork/telemed)**: Scaled teleconsultations to 200K+ calls during the pandemic  
+- **[Pupilfirst LMS](https://github.com/pupilfirst/pupilfirst)**: An open-source LMS platform where I’m a core maintainer
 
-## :octocat: Github Stats
+---
 
-![](https://raw.githubusercontent.com/bodhish/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/bodhish/github-stats-transparent/output/generated/languages.svg)
+### 👨‍💻 My Tool Belt
+```
+Tools: Ruby on Rails, ReScriptReact, React, Next.js, TailwindCSS 
+Languages I Speak: Ruby, ReScript, TypeScript, JavaScript, GraphQL 
+Cloud Friends: DigitalOcean, Render, AWS, Heroku, Render, SSD Nodes   
+What Gets Me Excited: Building solid products, functional programming, and automation
+```
+---
 
-## 📫 Support
+### 📊 GitHub Stats
 
-If you like any of my projects or like what I’m doing, please consider backing me so I can continue maintaining and evolving all my projects and new ones. I'm in this for the long run.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bodhish/github-stats-transparent/output/generated/overview.svg" alt="Bodhi's GitHub stats" /> 
+  <img src="https://raw.githubusercontent.com/bodhish/github-stats-transparent/output/generated/languages.svg" alt="Bodhi's GitHub languages" />
+</p>
 
-Thank you for your support! 🙌
+---
+
+### 🤝 Let's Connect & Sponsor
+
+I love chatting about tech, healthcare, education, or anything that can uplift communities. If you’re building something interesting or want to contribute, let’s connect. Your support helps maintain open-source projects and spark new ideas!
+
+- **[🌐 bodhish.in](https://www.bodhish.in)**  
+- **[Twitter](https://twitter.com/bodhishthomas)**  
+- **[LinkedIn](https://www.linkedin.com/in/bodhish/)**
+
+**If you find my work impactful and want to help sustain these efforts, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/bodhish).** Every bit helps in building and maintaining open-source solutions that make a real difference.
+
+Thanks for stopping by! 🚀
